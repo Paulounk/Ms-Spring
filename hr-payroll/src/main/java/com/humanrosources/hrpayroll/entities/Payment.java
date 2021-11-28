@@ -21,6 +21,8 @@ public class Payment implements Serializable{
 		this.days = days;
 	}
 
+	
+	//GETTERS & SETTERS
 	public String getName() {
 		return name;
 	}
